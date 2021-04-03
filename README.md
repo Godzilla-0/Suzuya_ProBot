@@ -200,7 +200,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godzilla-0/Suzuya_ProBot.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farseendp/Suzuya_ProBot.git) 
 
 
 ## Credits
