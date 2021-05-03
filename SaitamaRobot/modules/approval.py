@@ -179,7 +179,8 @@ def unapproveall_btn(update: Update, context: CallbackContext):
             users = [int(i.user_id) for i in approved_users]
             for user_id in users:
                 sql.disapprove(chat.id, user_id)
-
+            message.edit_text("Successfully unapproved all users in this chat.")
+            return ""
         if member.status == "administrator":
             query.answer("Only owner of the chat can do this.")
 
